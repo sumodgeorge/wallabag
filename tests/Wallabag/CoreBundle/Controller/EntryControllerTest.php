@@ -1387,7 +1387,7 @@ class EntryControllerTest extends WallabagCoreTestCase
     {
         return [
             'ru' => [
-                'https://www.vtimes.io/2020/12/14/ubiistvo-kotorogo-ne-bilo-a1981',
+                'https://ru.wikipedia.org/wiki/Открытое_программное_обеспечение',
                 'ru',
             ],
             'fr' => [
@@ -1399,7 +1399,7 @@ class EntryControllerTest extends WallabagCoreTestCase
                 'de',
             ],
             'it' => [
-                'https://www.ansa.it/sito/notizie/mondo/europa/2017/06/08/voto-gb-seggi-aperti-misure-sicurezza-rafforzate_0cb71f7f-e23b-4d5f-95ca-bc12296419f0.html',
+                'https://it.wikipedia.org/wiki/Free_and_Open_Source_Software',
                 'it',
             ],
             'zh_CN' => [
